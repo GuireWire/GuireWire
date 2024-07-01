@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,matlab,remix,solidity,html" />
-    <img src="https://skillicons.dev/icons?i=discord,ai,java,javascript,pr,github,r,ae,c" /><br>
+    <img src="https://skillicons.dev/icons?i=solidity,cpp,cs,py,matlab,remix,html,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,powershell,javascript,java,r,c,discord,ai,pr,ae" /><br>
 </div>
 
 <br/>
