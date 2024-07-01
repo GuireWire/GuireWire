@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **deploying Smart Contracts on ETH testnets and mainnet**
  
- 🌱 I’m currently learning **Solidity**
+ 🌱 I’m currently learning **Smart Contract Security and Auditing**
 
 💬 Ask me about **Web 3.0, Smart Contracts, EVM-Compatible Chains, ANNs... or anything [here](https://github.com/GuireWire/GuireWire/issues)**
 
