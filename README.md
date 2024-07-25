@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anthony+Maguire!;" />
 </h1>
 
-<h3 align="center">A passionate Smart Contract Developer from Ireland</h3> 
+<h3 align="center">A passionate Backend Blockchain Engineer from Ireland</h3> 
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **deploying Smart Contracts on ETH testnets and mainnet**
+ 🔭 I’m currently working on **Auditing Protocols on Code4rena & CodeHawks**
  
  🌱 I’m currently learning **Smart Contract Security and Auditing**
 
